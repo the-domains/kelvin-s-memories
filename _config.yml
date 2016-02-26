@@ -1,0 +1,26 @@
+color:
+  saturation: 0.2429012
+  brandStrength: 0.5910539
+  rhythmicContrast: 0.7109705
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  lightness: 0.6051927
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.525659
+typography_spectrum: 0.838038
+name: "Kelvin's Memories"
