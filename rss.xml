@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Kelvin's Memories]]></title>
         <description><![CDATA[Kelvin's Memories]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kelvin-s-memories/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 23:27:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 23:29:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kelvin-s-memories/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c27a152d-405d-4dfa-94f7-700e9bd351f5.png">]]></description>
-            <link>undefined38c1e894-8bec-4fca-9af8-910afde3ff4b/index.html</link>
+            <link>https://thegrid.ai/kelvin-s-memories/38c1e894-8bec-4fca-9af8-910afde3ff4b/index.html</link>
             <guid isPermaLink="false">38c1e894-8bec-4fca-9af8-910afde3ff4b</guid>
             <pubDate>Thu, 25 Feb 2016 23:26:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Langkawi]]></title>
+            <description><![CDATA[<article><h1>Langkawi</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1d3526e-dc0c-4825-b27a-a467a41c498a.png"></article>]]></description>
+            <link>https://thegrid.ai/kelvin-s-memories/langkawi/index.html</link>
+            <guid isPermaLink="false">894c211c-7d70-49eb-834b-1175741addb1</guid>
+            <pubDate>Thu, 25 Feb 2016 23:27:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
