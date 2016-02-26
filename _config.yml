@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.6469534
 color:
-  saturation: 0.672043
-  brandStrength: 0.5910539
-  rhythmicContrast: 0.8548387
+  saturation: 1
+  brandStrength: 0.6989247
+  lightness: 0.9480287
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  lightness: 0.2168459
+    - '#E2D7CD'
+    - '#9AB3E0'
+    - '#67636E'
+    - '#F2A587'
+    - '#0E040D'
+  rhythmicContrast: 1
 layout_spectrum: 1
-name: Kelvin Cold
+name: Chez Kelvin
