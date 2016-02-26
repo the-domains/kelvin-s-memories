@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Kelvin's Memories]]></title>
-        <description><![CDATA[Kelvin's Memories]]></description>
+        <title><![CDATA[Kelvin Cold]]></title>
+        <description><![CDATA[Kelvin Cold]]></description>
         <link>https://thegrid.ai/kelvin-s-memories/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 23:30:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 23:37:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kelvin-s-memories/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kelvin-s-memories/38c1e894-8bec-4fca-9af8-910afde3ff4b/index.html</link>
             <guid isPermaLink="false">38c1e894-8bec-4fca-9af8-910afde3ff4b</guid>
             <pubDate>Thu, 25 Feb 2016 23:26:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf986ce3-471a-4d71-a11b-0b947bf3ee9f.png">]]></description>
+            <link>https://thegrid.ai/kelvin-s-memories/62630231-3bfe-4494-b902-e5547661537a/index.html</link>
+            <guid isPermaLink="false">62630231-3bfe-4494-b902-e5547661537a</guid>
+            <pubDate>Thu, 25 Feb 2016 23:37:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
